@@ -1,0 +1,9 @@
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.log
+*.g_o
+save*/
+*.crt
+*.key

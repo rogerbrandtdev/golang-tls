@@ -48,7 +48,7 @@ func main() {
 Hint: visit, please do not forget to use https begins,otherwise chrome will download a file as follows:
 
 ```bash
-$ curl -sL https://localhost:443 | xxd
+$ curl -sL https://localhost:443/hello
 0000000: 1503 0100 0202 0a                        .......
 ```
 
